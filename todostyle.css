@@ -1,0 +1,16 @@
+h1 {
+  color: purple 
+ 
+}
+
+body {
+  font-family: 'Alfa Slab One';font-size: 22px;
+}
+
+ul {
+  font-size: larger;
+}
+
+.finished {
+ text-decoration: line-through; 
+}
